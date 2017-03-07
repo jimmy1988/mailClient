@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Log In - Superhero Mail</title>
+    <link type="text/css" rel="stylesheet" href="css/index.css"/>
+    <script type="text/javascript" src="js/index.js"></script>
+</head>
+
+<body>
+<form>
+  <h1>Log in</h1>
+  <div class="inset">
+  <p>
+    <label>* EMAIL ADDRESS</label>
+    <input type="text" id="email" value="">
+    <p class="validate" id="validate1" ></p>
+  </p>
+  <p>
+    <label for="password">* PASSWORD</label>
+    <input type="password" name="password" id="password" value="">
+    <p class="validate" id="validate2"></p>
+  </p>
+  <div id="insert"></div>
+  <p>Fields marked with * are mandatory</p><br>
+  <p>Passwords must be between 5 to 11 characters long</p>
+  </div>
+  <p class="p-container">
+    <span><a href="register.html">Not Registered?</a><br><a href="register.html">Click Here</a></span>
+    <input type="button" name="go" id="go" onClick="request()" value="Log in">
+  </p>
+</form>
+</body>
+</html>

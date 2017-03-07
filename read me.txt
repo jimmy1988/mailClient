@@ -1,0 +1,8 @@
+The purpose of this application is to allow users to communicate using a simple interface. Users can create a mail message and read them
+but I have not got around to modifying the code so users can delete them.
+
+The idea of this is so I can show you how I orghanise and construct javascript code to process data and send it to the server.
+
+Once processed by the server I have to then dela with that data and reconstruct it, this is done on the client side.
+
+There is very little PHP in this but it shpows how I can use the two together to provide interactive interfaces

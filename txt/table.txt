@@ -1,0 +1,24 @@
+<table width="760" cellspacing="0" cellpadding="2" style="border:#FFF 2px ridge; margin-top:5px;">
+          <tr>
+            <th width="9%" style="border-right:#FFF 2px solid; border-bottom:#FFF 2px solid; max-width:9%;text-align:center;" scope="col">ID</th>
+            <th width="21%" style="border-right:#FFF 2px solid; border-bottom:#FFF 2px solid; max-width:21%;text-align:center;"scope="col">From</th>
+            <th width="27%" style="border-right:#FFF 2px solid; border-bottom:#FFF 2px solid; max-width:27%;text-align:center;" scope="col">Subject</th>
+            <th width="30%" style="border-right:#FFF 2px solid; border-bottom:#FFF 2px solid; max-width:30%;text-align:center;" scope="col">Date</th>
+            <th width="13%" style="border-bottom:#FFF 2px solid; max-width:13%;text-align:center;" scope="col">Time</th>
+          </tr>
+          <tr>
+           <a href="read_message.html" onClick="change()" style="text-decoration:none; color:#FFF"> <td width="9%" style="text-align:center; max-width:9%; overflow:scroll;">1</td></a>
+           <a href="#" style="text-decoration:none; color:#FFF"><td width="21%" style="text-align:center; max-width:21%; overflow:scroll;">james@gmail.comhhhhhhhjjjjjjjjj</td></a>
+            <td width="27%" style="text-align:center; max-width:27%; overflow:scroll;">helookojkdnfkdnd</td>
+            <td width="30%" style="text-align:center; max-width:30%; overflow:scroll;">21/04/2014</td>
+            <td width="13%" style="text-align:center; max-width:13%; overflow:scroll;">21:00pm</td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">&nbsp;</td>
+            <td style="text-align:center;">&nbsp;</td>
+            <td style="text-align:center;">&nbsp;</td>
+            <td style="text-align:center;">&nbsp;</td>
+            <td style="text-align:center;">&nbsp;</td>
+          </tr>
+      </tr>
+    </table>

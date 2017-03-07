@@ -1,0 +1,16 @@
+<div></div>
+      <div id="messages">
+      <div>
+        <p id ="0"  style="width:auto; margin-right:10px; display:inline; max-width:200px; font:Verdana, Geneva, sans-serif; font-size:14px">0</p>
+        <p id ="from" style="width:auto; margin-right:10px; display:inline; max-width:200px; font:Verdana, Geneva, sans-serif; font-size:14px">jim@gmail.comnwknfkenfkrnfkfek</p>
+        <p id ="Subject"  style="width:auto; margin-right:10px; display:inline; max-width:200px; font:Verdana, Geneva, sans-serif; font-size:14px">nvkfnkngrengfjlaerngfjergnjernfjfjewk</p>
+        <p id ="Date"  style="width:auto; margin-right:10px; display:inline; max-width:200px; font:Verdana, Geneva, sans-serif; font-size:14px">21/09/1999</p>
+        <a href="#" id ="Time"  style="width:auto; margin-right:10px; display:inline; max-width:200px; font:Verdana, Geneva, sans-serif; font-size:14px">12:09pm</a>
+        
+        </div>
+      </div>
+
+#messages a {
+	text-decoration:none;
+	color:#FFF
+}

@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Register - Superhero Mail</title>
+    <link type="text/css" rel="stylesheet" href="css/register.css"/>
+    <script type="text/javascript" src="js/register.js"></script>
+</head>
+
+<body>
+<form>
+  <h1>Register Your Details</h1>
+  <div class="inset">
+  <p>
+    <label for="email">* FIRSTNAME</label>
+    <input type="text" name="firstname" id="firstname" value="">
+    <p class="validate" id="validate1"></p>
+  </p>
+  <p>
+    <label for="email">* SURNAME</label>
+    <input type="text" name="surname" id="surname" value="">
+    <p class="validate" id="validate2"></p>
+  </p>
+  <p>
+    <label for="email">* EMAIL ADDRESS</label>
+    <input type="text" name="email" id="email" value="">
+    <p class="validate" id="validate3"></p>
+  </p>
+  <p>
+    <label for="password">* CHOOSE A PASSWORD</label>
+    <input type="password" name="password" id="password" value="">
+    <p class="validate" id="validate4"></p>
+  </p>
+  <p>
+    <label for="email">* RE-TYPE PASSWORD</label>
+    <input type="password" name="confirm_pass" id="confirm_pass" value="">
+    <p class="validate" id="validate5"></p>
+  </p>
+  <div id="insert"></div>
+  <p>Fields marked with * are mandatory</p>
+  </div>
+  <p class="p-container">
+    <span><a href="index.html">Already Registered?</a><br><a href="index.html">Click Here</a></span>
+    <input type="button" name="go" id="go" onClick="request()" value="Register">
+  </p>
+</form>
+</body>
+</html>
